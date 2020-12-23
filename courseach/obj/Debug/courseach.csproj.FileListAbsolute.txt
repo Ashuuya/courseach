@@ -1,0 +1,10 @@
+C:\Users\ashuu\source\repos\courseach\courseach\bin\Debug\courseach.exe.config
+C:\Users\ashuu\source\repos\courseach\courseach\bin\Debug\courseach.exe
+C:\Users\ashuu\source\repos\courseach\courseach\bin\Debug\courseach.pdb
+C:\Users\ashuu\source\repos\courseach\courseach\obj\Debug\courseach.csprojAssemblyReference.cache
+C:\Users\ashuu\source\repos\courseach\courseach\obj\Debug\courseach.Form1.resources
+C:\Users\ashuu\source\repos\courseach\courseach\obj\Debug\courseach.Properties.Resources.resources
+C:\Users\ashuu\source\repos\courseach\courseach\obj\Debug\courseach.csproj.GenerateResource.cache
+C:\Users\ashuu\source\repos\courseach\courseach\obj\Debug\courseach.csproj.CoreCompileInputs.cache
+C:\Users\ashuu\source\repos\courseach\courseach\obj\Debug\courseach.exe
+C:\Users\ashuu\source\repos\courseach\courseach\obj\Debug\courseach.pdb
